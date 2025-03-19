@@ -1,4 +1,4 @@
-# Board Game Rating Prediction
+# Board Game Number of Voters Prediction
 ## Description
 The project aims to predict the number of voters for board games based on various features. The second objective of the project was to identify the most important features that influence the number of voters for a given board game.
 
