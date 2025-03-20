@@ -14,4 +14,6 @@ The following libraries are required for this project:
 
 [Link to dataset](https://www.kaggle.com/datasets/fotopoulosvasileios/board-games-info-from-boardgamegeek-com/data?select=bg_info.csv)
 
+[The project has been expanded to include a neural network designed in tensorflow](https://github.com/jastrzt2/BoardGames-tensorflow)
+
 The project was developed in collaboration with [Barclay23](https://github.com/Barclay23).
